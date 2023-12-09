@@ -1,0 +1,20 @@
+begin
+    input(a)
+	print a
+	a = max(a, 12)
+	print a
+	let c be 4
+	divide a by c
+	print a
+	sub a from c
+	print c
+	multiply c by a
+	print c
+	c to the power of a
+	print c
+	let b be 2
+	add a to b
+	print b
+	c = min(c, b)
+	print c
+end
